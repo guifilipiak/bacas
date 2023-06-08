@@ -1,0 +1,48 @@
+
+Log Entry : 10:08:00 terça-feira, 22 de janeiro de 2019
+  :
+  :[22/01/2019 10:08:00] Erro ao encerrar CIOT - Protocolo: 1200009467078089
+
+-------------------------------
+
+Log Entry : 15:47:41 quinta-feira, 21 de fevereiro de 2019
+  :
+  :[21/02/2019 15:47:41] Erro ao encerrar CIOT - Protocolo: 1290311797084109
+
+-------------------------------
+
+Log Entry : 15:55:47 quinta-feira, 21 de fevereiro de 2019
+  :
+  :[21/02/2019 15:55:47] Erro ao encerrar CIOT - Protocolo: 1290312060524094
+
+-------------------------------
+
+Log Entry : 16:41:08 quinta-feira, 21 de fevereiro de 2019
+  :
+  :[21/02/2019 16:41:08] Erro ao encerrar CIOT - Protocolo: 1290311797084109
+
+-------------------------------
+
+Log Entry : 16:43:22 quinta-feira, 21 de fevereiro de 2019
+  :
+  :[21/02/2019 16:43:22] Erro ao encerrar CIOT - Protocolo: 1290311797084109
+
+-------------------------------
+
+Log Entry : 16:46:20 quinta-feira, 21 de fevereiro de 2019
+  :
+  :[21/02/2019 16:46:20] Erro ao encerrar CIOT - Protocolo: 1290312060524094
+
+-------------------------------
+
+Log Entry : 16:46:43 quinta-feira, 21 de fevereiro de 2019
+  :
+  :[21/02/2019 16:46:43] Erro ao encerrar CIOT - Protocolo: 1290312060524094
+
+-------------------------------
+
+Log Entry : 18:25:32 quarta-feira, 22 de abril de 2020
+  :
+  :[22/04/2020 18:25:32] Erro ao cancelar CIOT - Protocolo: 124041453057
+
+-------------------------------

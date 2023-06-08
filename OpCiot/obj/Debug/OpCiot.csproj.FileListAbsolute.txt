@@ -1,0 +1,42 @@
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\bin\Debug\OpCiot.exe.config
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\bin\Debug\OpCiot.exe
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\bin\Debug\OpCiot.pdb
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.frmInicio.resources
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.Properties.Resources.resources
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csproj.GenerateResource.cache
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csproj.CopyComplete
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.exe
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.pdb
+C:\Users\guilherme.filipiak\Documents\Apisul - Guilherme\Desenvolvimento\A - ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csprojAssemblyReference.cache
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\bin\Debug\OpCiot.exe.config
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\bin\Debug\OpCiot.exe
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\bin\Debug\OpCiot.pdb
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.dll
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.pdb
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.xml
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.frmInicio.resources
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.Properties.Resources.resources
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csproj.GenerateResource.cache
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csproj.CoreCompileInputs.cache
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csproj.CopyComplete
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.exe
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.pdb
+C:\BackupMaquinaAntiga\SandBox\SandBox\Desenvolvimento\ApisulCard\Bacas\OpCiot\obj\Debug\OpCiot.csprojAssemblyReference.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\bin\Debug\OpCiot.exe.config
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\bin\Debug\OpCiot.exe
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\bin\Debug\OpCiot.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.csproj.AssemblyReference.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.frmInicio.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.Properties.Resources.resources
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.csproj.GenerateResource.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.csproj.CopyComplete
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.exe
+C:\Users\Guilh\OneDrive\Área de Trabalho\Bacas\OpCiot\obj\Debug\OpCiot.pdb

@@ -1,0 +1,7 @@
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\bin\Debug\MudarSenha.exe.config
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\bin\Debug\MudarSenha.exe
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\bin\Debug\MudarSenha.pdb
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\obj\Debug\MudarSenha.csprojAssemblyReference.cache
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\obj\Debug\MudarSenha.csproj.CoreCompileInputs.cache
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\obj\Debug\MudarSenha.exe
+D:\SandBox\Desenvolvimento\A - ApisulCard\Bacas\MudarSenha\MudarSenha\MudarSenha\obj\Debug\MudarSenha.pdb
